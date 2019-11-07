@@ -1,0 +1,122 @@
+originalTag,newTag
+classifier,Estimator
+decision-making,Estimator
+regression model,Estimator
+classification model,Estimator
+decision support system,Estimator
+supervised learning,Estimator
+discriminative model,Estimator
+supervised model,Estimator
+predictive model,Estimator
+automated predictor,Estimator
+enterprise analytics,Estimator
+face recognition,Estimator
+medical diagnostic,Estimator
+predictor,Estimator
+recommendation system,Estimator
+time series,Estimator
+recommender,Estimator
+diagnostic ,Estimator
+object recognition,Estimator
+segmentation,Estimator
+failure detection,Estimator
+anomaly detection,Estimator
+pattern recognition,Estimator
+image recognition,Estimator
+computer vision,Estimator
+machine vision,Estimator
+reinforcement learning,Agent
+reward,Agent
+value function,Agent
+action-state,Agent
+MDP,Agent
+trading system,Agent
+agent,Agent
+industrial robot,Agent
+robot,Agent
+embodiment,Agent
+NPC,Agent
+cleaning robot,Agent
+artificial agent,Agent
+traffic control ,Agent
+AIXI,Agent
+self-driving car,Agent
+autonomous car,Agent
+driverless car,Agent
+drone,Agent
+unmanned vehicle,Agent
+personal assistant,Provider
+digital assistant,Provider
+comprehensive AI services,Provider
+cognition as a service,Provider
+cognitive service,Provider
+computing as a service,Provider
+AIaaS,Provider
+cognitive computing,Provider
+optimiser,Optimiser
+optimisation,Optimiser
+solver,Optimiser
+constraint solver,Optimiser
+planning,Optimiser
+SAT solver,Optimiser
+schedul,Optimiser
+efficient search,Optimiser
+traffic control,Optimiser
+water control,Optimiser
+electricity control,Optimiser
+farm control,Optimiser
+extended mind ,Extender
+prosthetic,Extender
+enhancement,Extender
+orthosis,Extender
+wearable,Extender
+assistive technolog,Extender
+cyborg,Extender
+extender,Extender
+augmentation,Extender
+augmented cognition,Extender
+implant,Extender
+chatbot,Dialoguer
+chatterbot,Dialoguer
+twitterbot,Dialoguer
+chatter bot,Dialoguer
+twitter bot,Dialoguer
+conversational agent,Dialoguer
+argumentation,Dialoguer
+artificial companion,Dialoguer
+dialog,Dialoguer
+A-life,Organism
+artificial life,Organism
+worm,Organism
+virus,Organism
+animat ,Organism
+malware,Organism
+mind uploading,Organism
+brain emulation,Organism
+multi-agent,Swarm
+ant colony,Swarm
+swarm,Swarm
+ herd ,Swarm
+distributed system,Swarm
+cooperative agents,Swarm
+expert system,Selector
+retrieval,Selector
+ontology,Selector
+knowledge base,Selector
+theorem prov,Selector
+search engine,Selector
+ GAN ,Creator
+generative adversarial network,Creator
+generative model,Creator
+generator,Creator
+Artificial creativity,Creator
+fake image,Creator
+artificial image,Creator
+synthesised audio,Creator
+synthesised video,Creator
+synthesised image,Creator
+synthesized audio,Creator
+synthesized video,Creator
+synthesized image,Creator
+deep fake,Creator
+synthetic imagery,Creator
