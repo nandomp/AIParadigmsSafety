@@ -1,0 +1,145 @@
+KEYWORDS,TECHNIQUE
+Cognitive Model,Cognitive approaches
+Cognitive computing,Cognitive approaches
+Cognitive architecture,Cognitive approaches
+Affective computing,Cognitive approaches
+cognitive service,Cognitive approaches
+Ant colony,Evolutionary & nature-inspired methods
+Learning classifier system ,Evolutionary & nature-inspired methods
+Neuroevolution,Evolutionary & nature-inspired methods
+Evolutionary programming,Evolutionary & nature-inspired methods
+Evolutionary algorithm,Evolutionary & nature-inspired methods
+genetic program,Evolutionary & nature-inspired methods
+simulated annealing,Evolutionary & nature-inspired methods
+DNA computing,Evolutionary & nature-inspired methods
+Genetic algorithm,Evolutionary & nature-inspired methods
+artificial immune systems,Evolutionary & nature-inspired methods
+Evolutionary,Evolutionary & nature-inspired methods
+AutoML,General machine learning
+Generative models,General machine learning
+machine learning,General machine learning
+gaussian models,General machine learning
+metalearning,General machine learning
+transfer learning,General machine learning
+curriculum learning,General machine learning
+machine teaching,General machine learning
+ensemble methods,General machine learning
+General Problem Solver,Heuristics & combinatorial optimization
+heuristic,Heuristics & combinatorial optimization
+metaheuristic,Heuristics & combinatorial optimization
+meta-heuristic,Heuristics & combinatorial optimization
+Combinatorial,Heuristics & combinatorial optimization
+SAT solver,Heuristics & combinatorial optimization
+Constraint satisfaction,Heuristics & combinatorial optimization
+Compression,Heuristics & combinatorial optimization
+montecarlo,Heuristics & combinatorial optimization
+Information Retrieval,Information retrieval
+Web search,Information retrieval
+search engine,Information retrieval
+Document retrieval,Information retrieval
+Web mining,Information retrieval
+tf-idf,Information retrieval
+Information extraction,Information retrieval
+Semantic net,Knowledge representation & reasoning
+Automated theorem proving,Knowledge representation & reasoning
+Inference engine,Knowledge representation & reasoning
+Abductive reasoning,Knowledge representation & reasoning
+Commonsense,Knowledge representation & reasoning
+Deduction,Knowledge representation & reasoning
+Case-based reasoning,Knowledge representation & reasoning
+Deductive reasoning,Knowledge representation & reasoning
+Reasoning,Knowledge representation & reasoning
+Expert System,Knowledge representation & reasoning
+knowledge representation,Knowledge representation & reasoning
+Lisp,Knowledge representation & reasoning
+Believ revision,Knowledge representation & reasoning
+Knowledge base,Knowledge representation & reasoning
+Fuzzy,Knowledge representation & reasoning
+Event calculus,Knowledge representation & reasoning
+Situation calculus,Knowledge representation & reasoning
+Valuation-based,Knowledge representation & reasoning
+prolog,Knowledge representation & reasoning
+modal logic,Knowledge representation & reasoning
+logics,Knowledge representation & reasoning
+First-order,Knowledge representation & reasoning
+propositional,Knowledge representation & reasoning
+multiagent,Multiagent systems & game theory
+multi-agent,Multiagent systems & game theory
+negotiation,Multiagent systems & game theory
+distributed problem solving,Multiagent systems & game theory
+cooperation,Multiagent systems & game theory
+game theory,Multiagent systems & game theory
+ BDI,Multiagent systems & game theory
+Nash equilibr,Multiagent systems & game theory
+Natural language,Natural language processing
+lexical,Natural language processing
+topic segmentation,Natural language processing
+sense disambiguation,Natural language processing
+automatic summar,Natural language processing
+language model,Natural language processing
+ NLP ,Natural language processing
+Speech recognition,Natural language processing
+Sentiment analysis,Natural language processing
+parsing,Natural language processing
+stemming,Natural language processing
+text-to-speech,Natural language processing
+part-of-speech,Natural language processing
+Question answering,Natural language processing
+machine translation,Natural language processing
+Adversarial network,Neural networks
+neural network,Neural networks
+Deep learning,Neural networks
+ GAN ,Neural networks
+Generative adversarial network,Neural networks
+Perceptron,Neural networks
+backpropagation,Neural networks
+convolutional,Neural networks
+autoencoder,Neural networks
+Deep learning,Neural networks
+activation function,Neural networks
+backpropagation,Neural networks
+ANN ,Neural networks
+convolutional neural network,Neural networks
+recurrent neural network,Neural networks
+neural turing machine,Neural networks
+feedforward,Neural networks
+neural,Neural networks
+hidden layer,Neural networks
+Support Vector Machine,Parametric machine learning
+Clustering,Parametric machine learning
+kernel method,Parametric machine learning
+SVM,Parametric machine learning
+kmeans,Parametric machine learning
+mixture models,Parametric machine learning
+k-means,Parametric machine learning
+Linear regression,Parametric machine learning
+logistic regression,Parametric machine learning
+Planning,Planning & scheduling
+Backward chaining,Planning & scheduling
+Forward chaining,Planning & scheduling
+Action description language,Planning & scheduling
+Scheduling,Planning & scheduling
+Graphplan,Planning & scheduling
+Naive Bayes,Probabilistic & Bayesian approaches
+Naïve Bayes,Probabilistic & Bayesian approaches
+Bayesian method,Probabilistic & Bayesian approaches
+Probabilistic model,Probabilistic & Bayesian approaches
+Markov model,Probabilistic & Bayesian approaches
+Bayesian network,Probabilistic & Bayesian approaches
+Random field,Probabilistic & Bayesian approaches
+stochastic process,Probabilistic & Bayesian approaches
+deep reinforcement,Reinforcement learning & MDPs
+Reinforcement learning,Reinforcement learning & MDPs
+Markov decision process,Reinforcement learning & MDPs
+Q-learning,Reinforcement learning & MDPs
+Value function,Reinforcement learning & MDPs
+Reward function,Reinforcement learning & MDPs
+Rule learning,Declarative machine learning
+C4.5,Declarative machine learning
+Decision tree,Declarative machine learning
+program induction,Declarative machine learning
+program synthesis,Declarative machine learning
+inductive logic programming,Declarative machine learning
+Progol,Declarative machine learning
+decision list,Declarative machine learning
+inductive programming,Declarative machine learning
