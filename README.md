@@ -1,2 +1,2 @@
-# AI Paradigms and AI Safety:
+# AI Paradigms and AI Safety
 Mapping Artefacts and Techniques to Safety Issues
