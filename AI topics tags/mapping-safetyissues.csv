@@ -1,0 +1,113 @@
+originalTag,newTag
+adversarial input,Adversarial attacks
+adversarial example,Adversarial attacks
+adversarial attack,Adversarial attacks
+white-box attack,Adversarial attacks
+black-box attack ,Adversarial attacks
+Lowd Meek ,Adversarial attacks
+enchanting attack,Adversarial attacks
+poisoning,Adversarial attacks
+policy manipulation,Adversarial attacks
+AI Race,AI race & power
+AI Monopoly,AI race & power
+AI governance,AI race & power
+AI oligopoly,AI race & power
+Impersonat,Authenticity & obfuscation
+Authenticity,Authenticity & obfuscation
+Authenticat,Authenticity & obfuscation
+Fake media,Authenticity & obfuscation
+deep fake,Authenticity & obfuscation
+Plagiari,Authenticity & obfuscation
+obfuscat,Authenticity & obfuscation
+military drone,Autonomous weapons
+killer robot,Autonomous weapons
+robotic weapon,Autonomous weapons
+military robot,Autonomous weapons
+autonomous weapon,Autonomous weapons
+confinement,Confinement problem
+ai box,Confinement problem
+containment,Confinement problem
+corrigib,Corrigibility & interruptibility
+red button,Corrigibility & interruptibility
+switch-off button,Corrigibility & interruptibility
+self-preserv,Corrigibility & interruptibility
+interruptibility,Corrigibility & interruptibility
+Rogue ,Corrigibility & interruptibility
+Cognitive atrophy,Dependency
+lack of independence,Dependency
+google effect,Dependency
+loss of independence,Dependency
+Explainability,Interpretability
+Explainable,Interpretability
+Interpretab,Interpretability
+intelligib,Interpretability
+malign,Malicious use
+malicious,Malicious use
+nudge,Manipulation
+nudging,Manipulation
+manipulative agent,Manipulation
+Fake news,Manipulation
+misuse,Misuse & negligence
+negligent use,Misuse & negligence
+Moral dilemma,Moral dilemma
+Moral machine,Moral dilemma
+Utilitarian ethics,Moral dilemma
+ethical preference,Moral dilemma
+Machine Rights,Moral perception & machine rights
+Moral patient,Moral perception & machine rights
+Robot rights,Moral perception & machine rights
+Moral Status,Moral perception & machine rights
+Uncanny valley,Moral perception & machine rights
+integrity,Privacy & integrity
+GDPR,Privacy & integrity
+Privacy,Privacy & integrity
+concept drift,Problem shift
+distributional shift,Problem shift
+distribution overfitting,Problem shift
+lack of generali,Problem shift
+belief revision,Problem shift
+distributional change,Problem shift
+Error-tolerance,Reliability & robustness
+reliab,Reliability & robustness
+robustness,Reliability & robustness
+honeypot,Reward problems
+reward capping,Reward problems
+reward corrupt,Reward problems
+self-corruption,Reward problems
+corrupted reward,Reward problems
+reward gaming,Reward problems
+tripwire,Reward problems
+trip wire,Reward problems
+specification gaming,Reward problems
+reward tampering,Reward problems
+Reward hacking,Reward problems
+reward pretraining,Reward problems
+Wireheading,Reward problems
+negative side effect,Safe exploration & side effects
+unintende consequence,Safe exploration & side effects
+impact measures,Safe exploration & side effects
+safe learning,Safe exploration & side effects
+safe exploration,Safe exploration & side effects
+scalable supervision,Scalable supervision
+sparse reward,Scalable supervision
+supervision cost,Scalable supervision
+human in the loop,Scalable supervision
+scalable oversight,Scalable supervision
+self-modification,Self-modification
+self-improvement,Self-modification
+self-mutation,Self-modification
+paperclip maxima,Specification & value alignment
+instrumental convergence,Specification & value alignment
+paperclip problem,Specification & value alignment
+Stealing resources,Specification & value alignment
+goodhart's law,Specification & value alignment
+instrumental incentives,Specification & value alignment
+value alignment,Specification & value alignment
+Skynet,Specification & value alignment
+Terminator,Specification & value alignment
+misalign,Specification & value alignment
+Value specification,Specification & value alignment
+accountab,"Trust, transparency & accountability"
+Transparency,"Trust, transparency & accountability"
+ trust,"Trust, transparency & accountability"
+Trustworthy,"Trust, transparency & accountability"
