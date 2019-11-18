@@ -57,5 +57,5 @@ Next we look more closely at how different AI paradigms relate to specific safet
 </div>
 
 
-Our analysis identifies a number of gaps in AI safety research where certain combinations of techniques, paradigms and safety issues need to be addressed. We conclude the paper by discussing implications for future research in AI safety.
+Our analysis identifies a number of gaps in AI safety research where certain combinations of techniques, paradigms and safety issues need to be addressed.
 
