@@ -4,7 +4,10 @@ Mapping Artefacts and Techniques to Safety Issues
 
 ![](plots/mapping-techniques-noSafety_all.png?raw=true)
 
-
+<div align="center">
+<img src="https://github.com/nandomp/AIParadigmsSafety/blob/master/Plots/mapping-artefacts-noSafety_all.png"
+      alt="" width="800" />
+</div>
 
 ![Evolution of Techniques](plots/mapping-techniques-noSafety_all.png)
 
