@@ -3,4 +3,4 @@ Mapping Artefacts and Techniques to Safety Issues
 
 
 
-![Image description](Plots/mapping-techniques-noSafety_all.pdf)
+![Image description](https://github.com/nandomp/AIParadigmsSafety/blob/master/Plots/mapping-techniques-noSafety_all.pdf)
