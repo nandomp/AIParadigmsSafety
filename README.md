@@ -1,22 +1,45 @@
 # AI Paradigms and AI Safety
 Mapping Artefacts and Techniques to Safety Issues
 
-
-![](plots/mapping-techniques-noSafety_all.png?raw=true)
+### Evolution of Techniques
 
 <div align="center">
 <img src="https://github.com/nandomp/AIParadigmsSafety/blob/master/Plots/mapping-artefacts-noSafety_all.png"
       alt="" width="800" />
 </div>
 
-![Evolution of Techniques](plots/mapping-techniques-noSafety_all.png)
+### Evolution of Artefacts
 
-![Evolution of Artefacts](plots/mapping-artefacts-noSafety_all.png)
+<div align="center">
+<img src="https://github.com/nandomp/AIParadigmsSafety/blob/master/Plots/mapping-techniques-noSafety_all.png"
+      alt="" width="800" />
+</div>
 
-![Evolution of Techniques (only AI safety-related documents)](plots/mapping-artefacts-Safety_all.png)
+### Evolution of Techniques (only AI safety-related documents)
 
-![Evolution of Artefacts (only AI safety-related documents)](plots/mapping-artefacts-Safety_all.png)
+<div align="center">
+<img src="https://github.com/nandomp/AIParadigmsSafety/blob/master/Plots/mapping-artefacts-Safety_all.png"
+      alt="" width="800" />
+</div>
 
-![Mapping between Techniques and Safety issues](plots/Techniques_vs_SafeIssues_v5.png)
+### Evolution of Artefacts (only AI safety-related documents)
 
-![Mapping between Artefacts and Safety issues](plots/Artefacts_vs_SafeIssues_v5.png)
+<div align="center">
+<img src="https://github.com/nandomp/AIParadigmsSafety/blob/master/Plots/mapping-artefacts-Safety_all.png"
+      alt="" width="800" />
+</div>
+
+### Mapping between Techniques and Safety issues
+
+<div align="center">
+<img src="https://github.com/nandomp/AIParadigmsSafety/blob/master/Plots/Techniques_vs_SafeIssues_v5.png"
+      alt="" width="800" />
+</div>
+
+### Mapping between Artefacts and Safety issues
+
+<div align="center">
+<img src="https://github.com/nandomp/AIParadigmsSafety/blob/master/Plots/Artefacts_vs_SafeIssues_v5.png"
+      alt="" width="800" />
+</div>
+
