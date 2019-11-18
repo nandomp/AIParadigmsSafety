@@ -1,7 +1,7 @@
-# AI Paradigms and AI Safety
-## Mapping Artefacts and Techniques to Safety Issues
+# AI Paradigms and AI Safety:
+### Mapping Artefacts and Techniques to Safety Issues
 
-*paper submitted for publication*
+*Paper submitted for publication*
 
 In this work, we present a structured approach for thinking about paradigms in AI and use this as the basis for empirical analysis of how AI safety issues have been explored in the research literature so far. 
 
