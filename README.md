@@ -2,6 +2,9 @@
 Mapping Artefacts and Techniques to Safety Issues
 
 
+![](plots/mapping-techniques-noSafety_all.png?raw=true)
+
+
 
 ![Evolution of Techniques](plots/mapping-techniques-noSafety_all.png)
 
