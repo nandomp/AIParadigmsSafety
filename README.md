@@ -1,7 +1,7 @@
 # AI Paradigms and AI Safety:
 ### Mapping Artefacts and Techniques to Safety Issues
 
-Publication: Jose Hernández-Orallo, Fernando Martínez-Plumed, Shahar Avin, Jess Whittlestone, Seán Ó hÉigeartaigh, [*"AI Paradigms and AI Safety:Mapping Artefacts and Techniques to Safety Issues"*](https://doi.org/10.3233/FAIA200386), Proceedings of the [24th European Conference on Artificial Intelligence (ECAI 2020)](http://ecai2020.eu/),  Santiago de Compostela, Spain, September 2020.
+**Publication**: Jose Hernández-Orallo, Fernando Martínez-Plumed, Shahar Avin, Jess Whittlestone, Seán Ó hÉigeartaigh, [*"AI Paradigms and AI Safety:Mapping Artefacts and Techniques to Safety Issues"*](https://doi.org/10.3233/FAIA200386), Proceedings of the [24th European Conference on Artificial Intelligence (ECAI 2020)](http://ecai2020.eu/),  Santiago de Compostela, Spain, September 2020.
 
 
 In this work, we present a structured approach for thinking about paradigms in AI and use this as the basis for empirical analysis of how AI safety issues have been explored in the research literature so far. 
